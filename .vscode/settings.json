@@ -1,0 +1,6 @@
+{
+  "workbench.editorAssociations": {
+    "*.hwp": "cweijan.hwpEditor",
+    "*.hwpx": "cweijan.hwpEditor"
+  }
+}
